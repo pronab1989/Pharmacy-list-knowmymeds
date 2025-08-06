@@ -6,6 +6,7 @@
         "name": "Apollo Pharmacy",
         "address": "Andheri West, Near XYZ Hospital",
         "phone": "+91-9876543210"
+        "active": false
       },
       {
         "name": "MedPlus Pharmacy",
