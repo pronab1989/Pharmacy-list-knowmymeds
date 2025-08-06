@@ -1,0 +1,34 @@
+{
+  "pharmacies": {
+    "Maharashtra": {
+      "Mumbai": [
+        {
+          "name": "Apollo Pharmacy",
+          "address": "Andheri West, Near XYZ Hospital",
+          "phone": "+91-9876543210"
+        },
+        {
+          "name": "MedPlus Pharmacy",
+          "address": "Bandra East, Opp. ABC Mall",
+          "phone": "+91-9123456780"
+        }
+      ],
+      "Pune": [
+        {
+          "name": "Wellness Forever",
+          "address": "FC Road, Near College",
+          "phone": "+91-9988776655"
+        }
+      ]
+    },
+    "Karnataka": {
+      "Bangalore": [
+        {
+          "name": "HealthCare Pharmacy",
+          "address": "MG Road, Near Metro Station",
+          "phone": "+91-9001122334"
+        }
+      ]
+    }
+  }
+}
