@@ -20,15 +20,17 @@
     }
   },
   "Bangladesh":{
-    "Dhaka":{
-     "Gulshan":{
+    "dhaka":{
+     "gulshan":[
+        {
       "Name": "Baba pharmacy",
        "address": "Gulshan colony \nPurana paltan. \nBangaladesh",
        "Phone": "+81-0000000000",
-       "Active": true
-       
-       
+       "Active": true   
      }
+     ]
+      
     }
   }
+  
 }
