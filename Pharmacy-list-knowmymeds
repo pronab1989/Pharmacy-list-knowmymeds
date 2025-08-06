@@ -1,41 +1,263 @@
 {
   "pharmacies": {
-    "Maharashtra": {
-      "Mumbai": [
-        {
-          "name": "Apollo Pharmacy",
-          "address": "Andheri West, Near XYZ Hospital",
-          "phone": "+91-9876543210"
-        },
-        {
-          "name": "MedPlus Pharmacy",
-          "address": "Bandra East, Opp. ABC Mall",
-          "phone": "+91-9123456780"
-        }
-      ],
-      "Pune": [
-        {
-          "name": "Wellness Forever",
-          "address": "FC Road, Near College",
-          "phone": "+91-9988776655"
-        }
-      ],
-      "Nagpur": [
-        {
-          "name": "Wellness Forever",
-          "address": "FC Road, Near College",
-          "phone": "+91-9988776655"
-        }
-      ]
-    },
-    "Karnataka": {
-      "Bangalore": [
-        {
-          "name": "HealthCare Pharmacy",
-          "address": "MG Road, Near Metro Station",
-          "phone": "+91-9001122334"
-        }
-      ]
-    }
+  "Maharashtra": {
+    "Mumbai": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "Andheri West, Near XYZ Hospital",
+        "phone": "+91-9876543210"
+      },
+      {
+        "name": "MedPlus Pharmacy",
+        "address": "Bandra East, Opp. ABC Mall",
+        "phone": "+91-9123456780"
+      }
+    ],
+    "Pune": [
+      {
+        "name": "Wellness Forever",
+        "address": "FC Road, Near College",
+        "phone": "+91-9988776655"
+      }
+    ],
+    "Nagpur": [
+      {
+        "name": "Wellness Forever",
+        "address": "Dharampeth, Near Lokmat Square",
+        "phone": "+91-9988776655"
+      }
+    ],
+    "Nashik": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "College Road, Near Big Bazaar",
+        "phone": "+91-9001234567"
+      }
+    ],
+    "Thane": [
+      {
+        "name": "MedPlus Pharmacy",
+        "address": "Ghodbunder Road, Near HyperCity",
+        "phone": "+91-9012345678"
+      }
+    ],
+    "Aurangabad": [
+      {
+        "name": "Wellness Forever",
+        "address": "CIDCO, Near Prozone Mall",
+        "phone": "+91-9023456789"
+      }
+    ],
+    "Solapur": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "Hotgi Road, Opp. Railway Station",
+        "phone": "+91-9034567890"
+      }
+    ],
+    "Amravati": [
+      {
+        "name": "MedPlus Pharmacy",
+        "address": "Rajapeth, Near Bus Stand",
+        "phone": "+91-9045678901"
+      }
+    ],
+    "Kolhapur": [
+      {
+        "name": "Wellness Forever",
+        "address": "Shahupuri, Near Mahalaxmi Temple",
+        "phone": "+91-9056789012"
+      }
+    ],
+    "Navi Mumbai": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "Vashi, Sector 17",
+        "phone": "+91-9067890123"
+      }
+    ],
+    "Kalyan": [
+      {
+        "name": "MedPlus Pharmacy",
+        "address": "Kalyan West, Near Station Road",
+        "phone": "+91-9078901234"
+      }
+    ],
+    "Dombivli": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "Dombivli East, Manpada Road",
+        "phone": "+91-9089012345"
+      }
+    ],
+    "Sangli": [
+      {
+        "name": "Wellness Forever",
+        "address": "Mahatma Gandhi Road, Near Market Yard",
+        "phone": "+91-9090123456"
+      }
+    ],
+    "Jalgaon": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "Ravi Nagar, Near Bus Stand",
+        "phone": "+91-9101234567"
+      }
+    ],
+    "Latur": [
+      {
+        "name": "MedPlus Pharmacy",
+        "address": "MIDC Area, Near Railway Crossing",
+        "phone": "+91-9112345678"
+      }
+    ],
+    "Akola": [
+      {
+        "name": "Wellness Forever",
+        "address": "Tapadia Nagar, Near Civil Hospital",
+        "phone": "+91-9123456789"
+      }
+    ]
+  },
+  "West Bengal": {
+    "Kolkata": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "Salt Lake Sector V, Near Technopolis",
+        "phone": "+91-9811123456"
+      },
+      {
+        "name": "MedPlus Pharmacy",
+        "address": "Park Street, Opp. Metro Station",
+        "phone": "+91-9812345678"
+      }
+    ],
+    "Howrah": [
+      {
+        "name": "Wellness Forever",
+        "address": "Howrah Maidan, Near Bus Depot",
+        "phone": "+91-9823456789"
+      }
+    ],
+    "Durgapur": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "City Centre, Near Junction Mall",
+        "phone": "+91-9834567890"
+      }
+    ],
+    "Asansol": [
+      {
+        "name": "MedPlus Pharmacy",
+        "address": "Hutton Road, Near Court More",
+        "phone": "+91-9845678901"
+      }
+    ],
+    "Siliguri": [
+      {
+        "name": "Wellness Forever",
+        "address": "Sevoke Road, Near City Centre",
+        "phone": "+91-9856789012"
+      }
+    ],
+    "Bardhaman": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "Grand Trunk Road, Near Hospital",
+        "phone": "+91-9867890123"
+      }
+    ],
+    "Kharagpur": [
+      {
+        "name": "MedPlus Pharmacy",
+        "address": "Inda More, Near Railway Workshop",
+        "phone": "+91-9878901234"
+      }
+    ],
+    "Haldia": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "Durgachak, Near Refinery Township",
+        "phone": "+91-9889012345"
+      }
+    ],
+    "Malda": [
+      {
+        "name": "Wellness Forever",
+        "address": "English Bazar, Near Rabindra Bhavan",
+        "phone": "+91-9890123456"
+      }
+    ]
+  },
+  "Bihar": {
+    "Patna": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "Bailey Road, Near IGIMS",
+        "phone": "+91-9711234567"
+      },
+      {
+        "name": "MedPlus Pharmacy",
+        "address": "Fraser Road, Opp. Big Bazaar",
+        "phone": "+91-9722345678"
+      }
+    ],
+    "Gaya": [
+      {
+        "name": "Wellness Forever",
+        "address": "Station Road, Near Vishnupad Temple",
+        "phone": "+91-9733456789"
+      }
+    ],
+    "Muzaffarpur": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "Motijheel, Near Eye Hospital",
+        "phone": "+91-9744567890"
+      }
+    ],
+    "Bhagalpur": [
+      {
+        "name": "MedPlus Pharmacy",
+        "address": "T.N.B College Road, Near Market",
+        "phone": "+91-9755678901"
+      }
+    ],
+    "Darbhanga": [
+      {
+        "name": "Wellness Forever",
+        "address": "Laheriasarai, Near Tower Chowk",
+        "phone": "+91-9766789012"
+      }
+    ],
+    "Purnia": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "Line Bazar, Near Sadar Hospital",
+        "phone": "+91-9777890123"
+      }
+    ],
+    "Hajipur": [
+      {
+        "name": "MedPlus Pharmacy",
+        "address": "Cinema Road, Near Gandhi Chowk",
+        "phone": "+91-9788901234"
+      }
+    ],
+    "Ara": [
+      {
+        "name": "Wellness Forever",
+        "address": "Station Road, Near Bus Stand",
+        "phone": "+91-9799012345"
+      }
+    ],
+    "Katihar": [
+      {
+        "name": "Apollo Pharmacy",
+        "address": "MG Road, Near Clock Tower",
+        "phone": "+91-9800123456"
+      }
+    ]
   }
+}
 }
