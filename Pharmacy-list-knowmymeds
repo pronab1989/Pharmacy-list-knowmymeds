@@ -1,34 +1,22 @@
 {
-  "pharmacies": {
-    "India": {
-      "Maharashtra": {
-        "Mumbai": [
-          {
-            "name": "Apollo Pharmacy",
-            "address": "Andheri West, Near XYZ Hospital",
-            "phone": "+91-9876543210",
-            "active": true
-          },
-          {
-            "name": "MedPlus Pharmacy",
-            "address": "Bandra East, Opp. ABC Mall",
-            "phone": "+91-9123456780",
-            "active": false
-          }
-        ]
+   "pharmacies":{
+      "India":{
+         "Maharashtra":{
+            "Mumbai":[
+               {
+                  "name":"Apollo Pharmacy",
+                  "address":"Andheri West, Near XYZ Hospital",
+                  "phone":"+91-9876543210",
+                  "active":true
+               },
+               {
+                  "name":"MedPlus Pharmacy",
+                  "address":"Bandra East, Opp. ABC Mall",
+                  "phone":"+91-9123456780",
+                  "active":false
+               }
+            ]
+         }
       }
-    },
-    "Bangladesh": {
-      "Dhaka": {
-        "Gulshan": [
-          {
-            "name": "Baba Pharmacy",
-            "address": "Gulshan Colony\nPurana Paltan\nBangladesh",
-            "phone": "+880-0000000000",
-            "active": true
-          }
-        ]
-      }
-    }
-  }
+   }
 }
