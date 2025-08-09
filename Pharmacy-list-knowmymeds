@@ -1,22 +1,36 @@
 {
-   "pharmacies":{
-      "India":{
-         "Maharashtra":{
-            "Mumbai":[
-               {
-                  "name":"Apollo Pharmacy",
-                  "address":"Andheri West, Near XYZ Hospital",
-                  "phone":"+91-9876543210",
-                  "active":true
-               },
-               {
-                  "name":"MedPlus Pharmacy",
-                  "address":"Bandra East, Opp. ABC Mall",
-                  "phone":"+91-9123456780",
-                  "active":false
-               }
-            ]
-         }
+  "pharmacies": {
+    "India": {
+      "Maharashtra": {
+        "Mumbai": [
+          {
+            "name": "Apollo Pharmacy",
+            "address": "Andheri West, Near XYZ Hospital",
+            "phone": "+91-9876543210",
+            "active": true
+          },
+          {
+            "name": "MedPlus Pharmacy",
+            "address": "Bandra East, Opp. ABC Mall",
+            "phone": "+91-9123456780",
+            "active": true
+          }
+        ],
+        "Nagpur": [
+          {
+            "name": "Apollo Pharmacy",
+            "address": "Sadar, Near DEF Hospital",
+            "phone": "+91-9876543210",
+            "active": true
+          },
+          {
+            "name": "MedPlus Pharmacy",
+            "address": "Sitabuldi, Opp. GHI Mall",
+            "phone": "+91-9123456780",
+            "active": true
+          }
+        ]
       }
-   }
+    }
+  }
 }
