@@ -4,13 +4,13 @@
       "Maharashtra": {
         "Mumbai": [
           {
-            "name": "Apollo Pharmacy",
+            "name": "TEST \nApollo Pharmacy",
             "address": "Andheri West, Near XYZ Hospital",
             "phone": "+91-9876543210",
             "active": true
           },
           {
-            "name": "MedPlus Pharmacy",
+            "name": "TEST \nMedPlus Pharmacy",
             "address": "Bandra East, Opp. ABC Mall",
             "phone": "+91-9123456780",
             "active": true
@@ -18,15 +18,55 @@
         ],
         "Nagpur": [
           {
-            "name": "Apollo Pharmacy",
+            "name": "TEST \nApollo Pharmacy",
             "address": "Sadar, Near DEF Hospital",
             "phone": "+91-9876543210",
             "active": true
           },
           {
-            "name": "MedPlus Pharmacy",
-            "address": "Sitabuldi, Opp. GHI Mall. \nramdaspeth nere lokmat chuck.\ndr:xyz thapa(heart spaclist).\ntiming: every day 3.00 PM",
+            "name": "TEST \nMedPlus Pharmacy",
+            "address": "Sitabuldi, Opp. GHI Mall",
             "phone": "+91-9123456780",
+            "active": true
+          }
+        ]
+      },
+      "West Bengal": {
+        "Kolkata": [
+          {
+            "name": "TEST \nApollo Pharmacy",
+            "address": "Salt Lake, Near LMN Hospital",
+            "phone": "+91-9830012345",
+            "active": true
+          },
+          {
+            "name": "TEST \nMedPlus Pharmacy",
+            "address": "Park Street, Opp. OPQ Mall",
+            "phone": "+91-9123000000",
+            "active": true
+          }
+        ],
+        "Darjeeling": [
+          {
+            "name": "TEST \nApollo Pharmacy",
+            "address": "Mall Road, Near RST Hospital",
+            "phone": "+91-9876500000",
+            "active": true
+          }
+        ]
+      },
+      "Delhi": {
+        "New Delhi": [
+          {
+            "name": "TEST \nApollo Pharmacy",
+            "address": "Connaught Place, Near UVW Hospital",
+            "phone": "+91-9811000000",
+            "active": true
+          },
+          {
+            "name": "TEST \nMedPlus Pharmacy",
+            "address": "Karol Bagh, Opp. XYZ Mall",
+            "phone": "+91-9911000000",
             "active": true
           }
         ]
